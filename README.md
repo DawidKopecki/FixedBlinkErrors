@@ -1,3 +1,3 @@
 # FixedBlinkErrors
-Fixed erros
+Fixed errors
 some text
